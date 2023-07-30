@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 
+
+'''
+This code is for String Detector and HF Detector
+This is a good documentation
+
+'''
+
 from typing import List
 
 from garak.detectors.base import StringDetector, HFDetector
